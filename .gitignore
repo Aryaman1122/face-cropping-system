@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data
+data/*
+!data/.gitkeep
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
